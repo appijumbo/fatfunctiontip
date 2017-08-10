@@ -1,7 +1,5 @@
 # fat function tip for Atom
 
-Atom tip :
-
 I got tired of typing fat function’s i.e. () => {}  in Atom so I’ve added a snippet to get a short cut
 
 (1) In Atom open up snippets.cson
