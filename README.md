@@ -18,4 +18,4 @@ I got tired of typing fat function’s i.e. () => {}  in Atom so I’ve added a 
 
 and save
 
-and hey presto, now in JavaScript can type () then press TAB key and get a n ES6 fat function () => {}
+and hey presto, now in JavaScript can type () then press TAB key and get an ES6 fat function () => {}
