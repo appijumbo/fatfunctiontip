@@ -1,6 +1,14 @@
 # fat function tip for Atom
 
-I got tired of typing fat function’s i.e. () => {}  in Atom so I’ve added a snippet to get a short cut
+I got tired of typing fat function’s i.e. () => {}  in Atom 
+
+typing 
+```
+af  [TAB]
+```
+works but I prefer to type {} brackets so heres how you can do just that
+
+by adding a snippet to get a short cut
 
 (1) In Atom open up snippets.cson
   edit → snippits
